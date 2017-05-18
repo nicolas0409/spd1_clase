@@ -6,4 +6,15 @@ compuerta xor
 compuerta negadorea
 
 reglas de algebra de boole
-
+a+0=a
+a+1=1
+a*0=0
+a*1=a
+a+a=a
+a+!a=1
+a*a=a
+a*!a=0
+!!a=a
+a+ab=a
+a+!(ab)=a+b
+(a+b)(a+c)=a+bc
