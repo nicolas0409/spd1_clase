@@ -1,0 +1,9 @@
+compuertas logica 
+
+compuerta or 
+compuerta and
+compuerta xor
+compuerta negadorea
+
+reglas de algebra de boole
+
