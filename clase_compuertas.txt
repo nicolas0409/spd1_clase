@@ -18,3 +18,7 @@ a*!a=0
 a+ab=a
 a+!(ab)=a+b
 (a+b)(a+c)=a+bc
+
+teorema de morgan
+
+expresion booleana de un circuito
